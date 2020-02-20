@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/background.jpg);
+    background-size: 100%;
+    color: white;
+    margin-left: 2px;
+    /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+}
+
+h1{
+    font-size: 200%;
+    text-align: center;
+}
+
+#characters-image{
+    overflow:hidden;
+}
+
+.character-container{
+    float:left;
+    text-align: center;
+}
+
+.character-data{
+    border: 5px solid grey;
+    background-color: black;
+    width: 120px;
+    text-align: center;
+    margin: 10px;
+}
+
